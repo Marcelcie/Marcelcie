@@ -1,16 +1,18 @@
-## Hi there 👋
+ Hi there 👋
 
-<!--
-**Marcelcie/Marcelcie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Computer Science student at **Wrocław University of Science and Technology**.
+I am currently pursuing a specialization in **Computer Systems and Networks (ISK)**.
 
-Here are some ideas to get you started:
+**I'm interested in:**
+* Computer Graphics (OpenGL, Python)
+* Algorithmics
+* Software Development
+* Programming languages (C++, Python, JavaScript, CSS, PHP, SQL)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**I'm currently working on:**
+ 3D Rendering Engine in Python 🐍
+ University projects 🎓
+Advanced Network configurations (Cisco IOS)
+
+**How to reach me:**
+📫 cieslinski.marcel@gmail.com
