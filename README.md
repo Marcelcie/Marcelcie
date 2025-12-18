@@ -4,14 +4,14 @@ I'm a Computer Science student at **Wrocław University of Science and Technolog
 I am currently pursuing a specialization in **Computer Systems and Networks (ISK)**.
 
 **I'm interested in:**
-* Computer Graphics (OpenGL, Python)
+* Network Engineering Enthusiast 🌐
 * Algorithmics
 * Software Development
 * Programming languages (C++, Python, JavaScript, CSS, PHP, SQL)
 
 **I'm currently working on:**
- 3D Rendering Engine in Python 🐍
- University projects 🎓
+Private Projects
+University projects 🎓
 Advanced Network configurations (Cisco IOS)
 
 **How to reach me:**
