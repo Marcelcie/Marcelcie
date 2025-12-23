@@ -10,8 +10,8 @@ I am currently pursuing a specialization in **Computer Systems and Networks (ISK
 * Programming languages (C++, Python, JavaScript, CSS, PHP, SQL)
 
 **I'm currently working on:**
-Private Projects
-University projects 🎓
+Private Projects,
+University projects 🎓,
 Advanced Network configurations (Cisco IOS)
 
 **How to reach me:**
