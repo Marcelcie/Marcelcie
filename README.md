@@ -4,7 +4,7 @@ I'm a Computer Science student at **Wrocław University of Science and Technolog
 I am currently pursuing a specialization in **Computer Systems and Networks (ISK)**.
 
 **I'm interested in:**
-* Network Engineering Enthusiast 🌐
+* Network Engineering Enthusiast 
 * Algorithmics
 * Software Development
 * Programming languages (C++, Python, JavaScript, CSS, PHP, SQL)
