@@ -7,7 +7,7 @@ I am currently pursuing a specialization in **Computer Systems and Networks (ISK
 * Network Engineering Enthusiast 
 * Algorithmics
 * Software Development
-* Programming languages (C++, Python, JavaScript, CSS, PHP, SQL)
+* Programming languages (C++, Python, JavaScript, CSS, SQL)
 
 **I'm currently working on:**
 Private Projects,
